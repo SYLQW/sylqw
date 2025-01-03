@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 抢课小脚本，原理是发送http请求☺
+
 ![image](https://github.com/user-attachments/assets/09291745-545d-47ac-a8e4-b9883eacc8c8)
+
 首先登录上你的选课：
+
 ![image](https://github.com/user-attachments/assets/7b3532b4-45f1-46d8-ae38-6f9c2db0d503)
 
 按下F12，找到网络选项：
